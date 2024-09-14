@@ -1,0 +1,7 @@
+<script>
+    function add(a,b){
+        return (a+b)
+    }
+    var total= add(10,30)
+    console.log(total)
+</script>
